@@ -1,7 +1,7 @@
 {
   "name": "api-from-scratch-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "lerning how to make api from sratch and learning to pull request! More practice!!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "dependencies": {
     "express": "^4.19.2",
     "mysql": "^2.18.1"
-  }
+  },
+  "keywords": []
 }
