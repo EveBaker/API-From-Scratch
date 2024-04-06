@@ -23,7 +23,7 @@
             "name":"Cosmic Prestige",
             "class":"Upper Class",
             "capacity": 50,
-            "crew":"30",
+            "crew":30,
             "destinations":"Moon, Mars, Venus, Jupiter, Mercury, Saturn",
             "amenities":["Gourmet Dining", "Personal Suites", "Exclusive Recreational Facilities", "Private Spacewalks", "On-board Spa"],
             "departureDate": "2025-04-05",
