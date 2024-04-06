@@ -12,7 +12,7 @@
         },
         {
             "name":"Stellar Explorer",
-            "capacity":"120",
+            "capacity":120,
             "crew":40,
             "destinations":"Moon, Mars, Venus, Jupiter",
             "amenities":["Premium Meals Service", "Private Viewing Pods", "Enhanced Recreational Facilities", "Holodeck"],
