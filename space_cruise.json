@@ -1,0 +1,17 @@
+{
+    "SpaceCruise":[
+        {
+            "name": "Glactic Voyager",
+            "class":"Economy",
+            "capacity":"200",
+            "crew":"25",
+            "destinations":"Venus,Mercury",
+            "amenities": ["Standard Meals Service", "Communal Viewing Decks", "Basic Recreational Facilities"],
+            "departureDate": "2025-01-15",
+            "returnDate": "2025-03-15"
+        },
+        {
+            
+        }
+    ]
+}
